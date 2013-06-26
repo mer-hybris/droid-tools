@@ -1,0 +1,6 @@
+[submodule "droid-extras"]
+	path = droid-extras
+	url = https://android.googlesource.com/platform/system/extras
+[submodule "droid-core"]
+	path = droid-core
+	url = https://android.googlesource.com/platform/system/core
