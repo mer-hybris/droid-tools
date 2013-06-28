@@ -26,4 +26,5 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(-,root,root,-)
 %{_bindir}/mkbootimg
 %{_bindir}/img2simg
+%{_bindir}/simg2img
 
