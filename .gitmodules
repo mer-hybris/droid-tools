@@ -3,4 +3,4 @@
 	url = https://android.googlesource.com/platform/system/extras
 [submodule "droid-core"]
 	path = droid-core
-	url = https://android.googlesource.com/platform/system/core
+	url = git://codeaurora.org/quic/la/platform/system/core
