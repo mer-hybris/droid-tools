@@ -27,4 +27,5 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/mkbootimg
 %{_bindir}/img2simg
 %{_bindir}/simg2img
+%{_bindir}/make_ext4fs
 
