@@ -7,6 +7,7 @@ Group:		Tools
 License:	Apache2, BSD, or MIT
 URL:		https://android.googlesource.com/
 Source0:	%{name}-%{version}.tar.bz2
+BuildRequires:  pkgconfig(zlib)
 
 %description
 %{summary}
